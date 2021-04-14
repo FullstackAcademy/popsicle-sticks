@@ -25,7 +25,7 @@
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](./CONTRIBUTING.md)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
