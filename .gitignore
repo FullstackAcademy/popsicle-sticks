@@ -4,3 +4,4 @@ dist
 venv
 db.json
 *.csv
+.DS_STORE
